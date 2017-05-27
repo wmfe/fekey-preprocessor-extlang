@@ -1,0 +1,24 @@
+{
+  "name": "fekey-preprocessor-extlang",
+  "version": "1.0.1",
+  "description": "fekey preproccessor plugin for parse smarty custom tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmfe/fekey-preprocessor-extlang.git"
+  },
+  "keywords": [
+    "fekey",
+    "smarty",
+    "extlang"
+  ],
+  "author": "flippyxu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmfe/fekey-preprocessor-extlang/issues"
+  },
+  "homepage": "https://github.com/wmfe/fekey-preprocessor-extlang#readme"
+}
